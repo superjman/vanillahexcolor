@@ -1,0 +1,21 @@
+html, body {
+  height:100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#btn {
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #383D3B;
+  border-radius: 3px;
+  background-color: #383D3B;
+  outline: none;
+}
